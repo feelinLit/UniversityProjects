@@ -6,7 +6,7 @@ Here I keep some of my worth showing university laboratory works.
 3) [Rubik's Cube Solver (C++)](#rubiks-cube-solver)
 
 ## Game Of Life
-Realisation of Conway's "Game Of Life".
+Implementation of Conway's "Game Of Life".
 >The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.It is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input. One interacts with the Game of Life by creating an initial configuration and observing how it evolves.
 > -- <cite>[Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)</cite>  
 >
@@ -16,7 +16,7 @@ Here I store images in _.bmp_ format and below are shown some of __examples__ of
 
 
 ## Archiver
-Realisation of basic Archiver and ArciverRLE using RLE encoding.
+Implementation of basic Archiver and ArciverRLE using RLE encoding.
 
 ## Rubik's Cube Solver
 This program can solve a 3x3 Rubik's Cube from any combination with basic algorithm _"White cross"_
