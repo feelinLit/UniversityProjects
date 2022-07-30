@@ -1,5 +1,5 @@
 # UniversityProjects
-Here I keep some of my worth showing university laboratory works.
+Here I keep some of my first year university labs.
 
 1) [Game Of Life (C)](#game-of-life)
 2) [Archiver (C)](#archiver)
